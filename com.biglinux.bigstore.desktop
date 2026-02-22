@@ -1,0 +1,22 @@
+[Desktop Entry]
+Name=Big Store
+Name[pt_BR]=Big Store
+Name[en]=Big Store
+Comment=Linux Application Store
+Comment[pt_BR]=Loja de Aplicativos Linux
+Comment[en]=Linux Application Store
+GenericName=Application Store
+GenericName[pt_BR]=Loja de Aplicativos
+GenericName[en]=Application Store
+Keywords=software;apps;store;flatpak;snap;aur;pacman;install;package;
+Keywords[pt_BR]=software;aplicativos;loja;flatpak;snap;aur;pacman;instalar;pacote;
+Exec=big-store
+Icon=com.biglinux.bigstore
+Terminal=false
+Type=Application
+Categories=PackageManager;System;Settings;
+StartupNotify=true
+StartupWMClass=big-store
+DBusActivatable=true
+X-GNOME-UsesNotifications=true
+X-GNOME-SingleWindow=true
